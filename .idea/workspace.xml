@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccfcc2a2-5a4b-41cc-858f-d150478f5b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/design/active-states.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/desktop-design-completed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/desktop-design-empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/desktop-preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/mobile-design.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon-person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ycsXhXn4I31LZvKxaicul2LiDE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccfcc2a2-5a4b-41cc-858f-d150478f5b8d" name="Default Changelist" comment="" />
+      <created>1632562280283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632562280283</updated>
+    </task>
+    <servers />
+  </component>
+</project>
